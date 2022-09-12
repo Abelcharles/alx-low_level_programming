@@ -3,6 +3,7 @@
 /**
  * main -> asign a random number to the variable n each time it is executed
  * and print the last digit of the number stored in the variables n
+ * Return: 0 (Sucess)
  */
 
 int main(void)
