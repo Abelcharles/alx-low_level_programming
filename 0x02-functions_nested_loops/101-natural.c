@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 
 /**
  * main - computes and prints the sum of all the multiples
@@ -29,4 +29,3 @@ int main(void)
 	printf("%lu\n", sum);
 	return (0);
 }
-	
