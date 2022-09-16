@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_line - draws a straigth line
+ * print_line - drws a straight line
  * @n: number of times _ should be printed
  */
 
-void print_line(int n)
+void printed_line(int n)
 {
 	int i;
 
